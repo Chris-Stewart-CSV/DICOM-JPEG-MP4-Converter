@@ -1,4 +1,4 @@
-# Medical Image (.dcm) file converting scripts (to .jpg or .mp4)
+# Medical Image File (.dcm) conversion to (.jpg & .mp4)
 
 ## Motivation for Project
 <p align="left">
