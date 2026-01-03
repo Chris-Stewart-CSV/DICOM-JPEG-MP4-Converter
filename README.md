@@ -7,24 +7,25 @@ These scripts will let you take the DICOM (.dcm) files off the disc (or extracte
 Originally intended this script for personal use, but figured others may benefit. Enjoy!
 
 
-### To run script
-** Open command prompt, navigate to where the script is located and type:
+## To run script
+------------------------
+Open command prompt, navigate to where the script is located and type:
 
-   "python DCM_to_JPG_Converter_Script.py"
-
-   OR
-
-   "python DCM_to_MP4_Converter_Script.py"
+# "python DCM_to_JPG_Converter_Script.py"
+OR
+# "python DCM_to_MP4_Converter_Script.py"
 
 
 ### File paths
-** Make sure to update the file paths to your input folder (.dcm files folder) output folder where you want the converted images/videos to go
-   DICOM_DIR = "directory/to/your/dcm/files/here" # Folder with .dcm files
-   OUTPUT_DIR = "directory/to/your/desired/output/folder/here" # Where to save JPEGs
+------------------------
+Update file paths for input files and output files:
+
+# DICOM_DIR = "directory/to/your/dcm/files/here" # Folder with .dcm files
+# OUTPUT_DIR = "directory/to/your/desired/output/folder/here" # Where to save JPEGs
 
 
 ### Minimum Requirements
-<p align="left">
+------------------------
 Scripts were written using Python 3.12.0 and require no additional installations (pip install xx not needed)
 
 </p>
