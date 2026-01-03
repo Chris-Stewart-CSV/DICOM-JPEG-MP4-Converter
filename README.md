@@ -11,17 +11,17 @@ Originally intended this script for personal use, but figured others may benefit
 ------------------------
 Open command prompt, navigate to where the script is located and type:
 
-# "python DCM_to_JPG_Converter_Script.py"
+### "python DCM_to_JPG_Converter_Script.py"
 OR
-# "python DCM_to_MP4_Converter_Script.py"
+### "python DCM_to_MP4_Converter_Script.py"
 
 
 ### File paths
 ------------------------
 Update file paths for input files and output files:
 
-# DICOM_DIR = "directory/to/your/dcm/files/here" # Folder with .dcm files
-# OUTPUT_DIR = "directory/to/your/desired/output/folder/here" # Where to save JPEGs
+### DICOM_DIR = "directory/to/your/dcm/files/here" # Folder with .dcm files
+### OUTPUT_DIR = "directory/to/your/desired/output/folder/here" # Where to save JPEGs
 
 
 ### Minimum Requirements
